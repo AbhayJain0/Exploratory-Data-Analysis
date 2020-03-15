@@ -14,13 +14,13 @@ Below is the overview of each.
 2. Haber_Man Survival data set-Haberman’s data set contains data from the study conducted in University of Chicago’s Billings Hospital between year 1958 to 1970 for the patients who undergone surgery of breast cancer.
 
 I have perform various EDA techniques using python which are given below:-
-Introduction to dataset
-1D ,2D and 3D scatter plot
-Pair plots
-Histogram
-Introduction of PDF(Probability Density Function)
-Introduction of CDF (Cumulative Distribution Function)
-Mean, Variance and Standard Deviation
-Median and Quantiles
-Box-plot and whisker
+1. Introduction to dataset
+2. 1D ,2D and 3D scatter plot
+3. Pair plots
+4. Histogram
+5. Introduction of PDF(Probability Density Function)
+6. Introduction of CDF (Cumulative Distribution Function)
+7. Mean, Variance and Standard Deviation
+8. Median and Quantiles
+9. Box-plot and whisker
 Violin Plots
